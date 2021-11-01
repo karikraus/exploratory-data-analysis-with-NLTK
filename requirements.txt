@@ -1,0 +1,7 @@
+NLTK
+TextBlob
+Numpy
+Spacy
+Matplotlib
+Gensim
+Wordcloud
